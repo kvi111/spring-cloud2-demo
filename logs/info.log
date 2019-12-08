@@ -1,0 +1,12 @@
+2019-12-08 17:04:40.305 INFO  [restartedMain] o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@421569aa: startup date [Sun Dec 08 17:04:40 CST 2019]; root of context hierarchy
+2019-12-08 17:04:40.510 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-12-08 17:04:41.071 INFO  [restartedMain] c.l.order.OrderServiceApplication - The following profiles are active: dev
+2019-12-08 17:04:41.091 INFO  [restartedMain] o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@396a35ea: startup date [Sun Dec 08 17:04:41 CST 2019]; parent: org.springframework.context.annotation.AnnotationConfigApplicationContext@421569aa
+2019-12-08 17:04:42.856 INFO  [restartedMain] o.s.cloud.context.scope.GenericScope - BeanFactory id=97d39eae-59fe-30e7-a587-18b592f368a2
+2019-12-08 17:04:42.869 INFO  [restartedMain] o.s.b.f.a.AutowiredAnnotationBeanPostProcessor - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-12-08 17:04:43.882 INFO  [restartedMain] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 5100 (http)
+2019-12-08 17:04:43.893 INFO  [restartedMain] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-5100"]
+2019-12-08 17:04:44.988 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean - Servlet dispatcherServlet mapped to [/]
+2019-12-08 17:04:44.990 INFO  [localhost-startStop-1] o.s.b.w.s.ServletRegistrationBean - Servlet statViewServlet mapped to [/druid/*]
+2019-12-08 17:04:45.114 INFO  [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2019-12-08 17:05:01.454 INFO  [restartedMain] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
